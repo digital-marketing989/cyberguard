@@ -1,0 +1,131 @@
+username,timestamp,ip_address,geo_country,geo_city,latitude,longitude,device_fingerprint,success,failure_reason,user_agent,label
+bob@company.com,2026-08-05T19:13:02.039341+00:00,169.236.211.14,DE,Berlin,52.20758254139453,13.261779359151676,dev-a5b95619,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+alice@company.com,2026-08-05T20:23:15.038400+00:00,253.199.135.238,US,Los Angeles,34.33407060194857,-118.28499163266085,dev-76f334d3,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+grace@company.com,2026-08-05T22:00:26.038520+00:00,86.66.134.42,GB,London,51.75123090834793,-0.07831957887360874,dev-8b428cb7,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+alice@company.com,2026-08-06T00:44:44.038805+00:00,242.180.152.193,DE,Berlin,52.40998664806372,13.791641541968513,dev-76f334d3,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+henry@company.com,2026-08-07T16:19:03.039295+00:00,228.221.165.155,US,New York,40.460367902412,-74.41867311336902,dev-a5b95619,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+alice@company.com,2026-08-07T16:44:58.039307+00:00,196.89.240.133,GB,London,51.66150948943368,0.2860727879267675,dev-a5b95619,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+frank@company.com,2026-08-07T16:46:49.038895+00:00,194.15.126.52,US,Los Angeles,34.389228846284595,-118.11866434341384,dev-8b428cb7,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+frank@company.com,2026-08-07T23:15:56.038172+00:00,170.116.148.253,US,Los Angeles,33.62979197692363,-118.50720911363896,dev-8b428cb7,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+diana@company.com,2026-08-09T04:35:21.038334+00:00,182.30.117.18,US,Los Angeles,34.455420013006126,-117.88036459974624,dev-8b428cb7,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+bob@company.com,2026-08-09T08:11:18.039176+00:00,148.27.77.39,DE,Berlin,52.83114207627505,13.849125642358032,dev-76f334d3,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+grace@company.com,2026-08-09T09:32:30.038531+00:00,242.76.18.214,US,New York,40.579215984512196,-73.957474903255,dev-8b428cb7,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+charlie@company.com,2026-08-10T04:10:53.039318+00:00,121.178.209.86,DE,Berlin,52.341058255956575,13.004599884582557,dev-76f334d3,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+diana@company.com,2026-08-10T05:55:59.038143+00:00,98.49.183.217,GB,London,51.35395572247897,-0.36547913277798694,dev-8b428cb7,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+grace@company.com,2026-08-10T07:02:21.038103+00:00,56.119.13.144,US,New York,40.40883765068665,-73.86011556222049,dev-8b428cb7,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+diana@company.com,2026-08-10T12:34:15.039489+00:00,195.51.227.43,US,New York,40.904001162793236,-73.60657593794951,dev-76f334d3,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+bob@company.com,2026-08-10T23:49:14.038937+00:00,149.13.159.148,US,Los Angeles,34.2273472868504,-117.7818271617941,dev-aeed60cb,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+diana@company.com,2026-08-11T07:08:59.038922+00:00,145.111.238.180,US,Los Angeles,33.806243696562184,-118.37110482567705,dev-76f334d3,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+grace@company.com,2026-08-11T08:15:33.038604+00:00,225.133.91.149,GB,London,51.97253431576156,-0.3645336374770314,dev-8b428cb7,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+eve@company.com,2026-08-11T18:45:32.039283+00:00,120.155.206.242,GB,London,51.28224619314426,-0.090018437401986,dev-76f334d3,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+alice@company.com,2026-08-11T19:18:33.038157+00:00,250.193.40.142,DE,Berlin,52.3131782814071,13.528639799494444,dev-a5b95619,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+grace@company.com,2026-08-11T22:34:24.038840+00:00,252.13.201.152,US,Los Angeles,34.114391983024774,-118.71289795365968,dev-76f334d3,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+alice@company.com,2026-08-12T06:20:12.038496+00:00,68.59.54.191,GB,London,51.563223640884814,-0.3576517876851837,dev-8b428cb7,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+diana@company.com,2026-08-12T18:23:47.039393+00:00,99.97.69.222,DE,Berlin,52.08981007960623,13.672675132677005,dev-a5b95619,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+eve@company.com,2026-08-12T21:33:22.038681+00:00,7.23.125.252,US,Los Angeles,34.0251363442188,-117.89026230537526,dev-8cc55c04,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+bob@company.com,2026-08-13T05:15:56.039379+00:00,128.149.139.107,DE,Berlin,52.854723945576694,13.880244632603375,dev-8b428cb7,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+frank@company.com,2026-08-13T05:56:38.038555+00:00,237.121.83.250,DE,Berlin,52.8198870299069,13.07705237032038,dev-a5b95619,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+alice@company.com,2026-08-14T10:01:15.038277+00:00,130.54.152.216,GB,London,51.648949494866,-0.02102978856182769,dev-a5b95619,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+grace@company.com,2026-08-14T13:36:21.038857+00:00,13.133.194.84,US,Los Angeles,33.76166028421148,-118.4131541951187,dev-76f334d3,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+grace@company.com,2026-08-14T23:07:24.038411+00:00,76.111.29.149,DE,Berlin,52.75573717878905,12.960957571476516,dev-8cc55c04,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+henry@company.com,2026-08-15T15:02:20.039353+00:00,69.67.147.113,DE,Berlin,52.90084661735781,13.384711796949999,dev-8b428cb7,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+henry@company.com,2026-08-15T18:51:21.038782+00:00,214.215.199.232,DE,Berlin,52.78979577231467,13.846062033590101,dev-8b428cb7,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+alice@company.com,2026-08-16T08:50:41.038709+00:00,46.237.25.143,US,New York,40.45919827965997,-73.66166365264834,dev-76f334d3,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+grace@company.com,2026-08-16T09:31:16.038824+00:00,70.223.248.8,US,Los Angeles,33.93885720324612,-118.07112637937708,dev-76f334d3,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+alice@company.com,2026-08-16T12:03:17.039110+00:00,104.124.156.170,US,New York,40.79155558533237,-74.03673951124048,dev-aeed60cb,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+grace@company.com,2026-08-16T13:01:49.038578+00:00,52.235.179.79,US,New York,41.03053638097156,-73.63867696413699,dev-76f334d3,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+diana@company.com,2026-08-16T20:44:12.038218+00:00,211.16.161.103,GB,London,51.2777408759757,-0.41901715641367354,dev-8b428cb7,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+bob@company.com,2026-08-16T23:18:55.038764+00:00,99.78.109.17,US,Los Angeles,33.964867895898216,-118.4091186089619,dev-8cc55c04,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+henry@company.com,2026-08-16T23:33:56.039253+00:00,74.144.232.19,GB,London,51.697384920071244,0.2939110444825487,dev-8b428cb7,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+alice@company.com,2026-08-17T05:16:42.038390+00:00,43.208.248.124,US,New York,40.423747299199185,-74.10895970745055,dev-8b428cb7,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+eve@company.com,2026-08-17T09:20:22.039205+00:00,45.38.80.1,US,New York,40.618517572660025,-73.82062886421524,dev-8cc55c04,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+eve@company.com,2026-08-17T10:30:43.038300+00:00,225.40.43.188,US,Los Angeles,34.03599046331661,-118.6707874815316,dev-8b428cb7,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+bob@company.com,2026-08-17T15:06:06.038206+00:00,42.236.194.70,US,Los Angeles,34.53952335063659,-118.1000002401459,dev-a5b95619,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+bob@company.com,2026-08-17T15:11:45.038041+00:00,58.71.52.174,US,New York,40.950667744667676,-73.96463346625166,dev-aeed60cb,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+grace@company.com,2026-08-17T23:47:38.038879+00:00,214.41.240.5,GB,London,51.75902426108285,-0.5779143917567445,dev-76f334d3,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+henry@company.com,2026-08-18T06:52:43.039071+00:00,88.143.141.143,US,Los Angeles,33.560151114438675,-117.79193742222296,dev-aeed60cb,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+diana@company.com,2026-08-18T13:26:23.038509+00:00,130.250.128.232,GB,London,51.91815904621857,-0.5792011063374694,dev-8cc55c04,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+charlie@company.com,2026-08-18T14:39:01.039462+00:00,87.203.41.219,US,New York,40.53856558898346,-73.83564250484599,dev-76f334d3,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+grace@company.com,2026-08-18T17:09:18.039405+00:00,211.1.144.186,GB,London,51.308555849771764,-0.043062277585838915,dev-a5b95619,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+henry@company.com,2026-08-19T12:30:41.038671+00:00,132.171.47.210,US,Los Angeles,34.50199966245247,-118.5051314014733,dev-8b428cb7,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+eve@company.com,2026-08-20T03:01:42.039151+00:00,59.184.91.78,US,New York,40.22414836725606,-73.97586491073234,dev-8cc55c04,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+frank@company.com,2026-08-20T07:46:37.038637+00:00,130.158.209.84,GB,London,51.41240038705772,-0.334344797474053,dev-8b428cb7,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+grace@company.com,2026-08-20T17:01:24.038542+00:00,94.20.183.54,US,Los Angeles,34.232066688310574,-118.07306658936446,dev-8b428cb7,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+alice@company.com,2026-08-20T19:55:35.039368+00:00,142.7.208.24,US,Los Angeles,33.77470065945578,-117.89859431838296,dev-8cc55c04,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+bob@company.com,2026-08-20T23:20:13.038615+00:00,112.59.197.231,DE,Berlin,52.5965880434966,13.154722506138583,dev-aeed60cb,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+frank@company.com,2026-08-20T23:55:37.038451+00:00,62.135.202.34,GB,London,51.68169022295997,-0.3300029202012378,dev-8cc55c04,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+frank@company.com,2026-08-21T19:16:34.039123+00:00,91.232.138.79,DE,Berlin,52.27140367620095,13.020655884752307,dev-a5b95619,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+grace@company.com,2026-08-21T20:54:01.038566+00:00,201.210.127.69,US,New York,40.36919784298073,-73.8087218118601,dev-8cc55c04,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+bob@company.com,2026-08-22T05:11:33.038368+00:00,205.55.127.50,US,New York,40.40020890844081,-74.06138645216687,dev-76f334d3,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+henry@company.com,2026-08-22T06:49:39.039168+00:00,48.26.129.241,DE,Berlin,52.881722964627514,13.014087140724925,dev-76f334d3,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+frank@company.com,2026-08-23T16:24:23.038482+00:00,73.80.224.214,US,New York,40.75321796226159,-74.20748285702112,dev-8cc55c04,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+diana@company.com,2026-08-23T20:56:34.038322+00:00,113.231.61.64,GB,London,51.234697337031555,-0.2919144378525447,dev-76f334d3,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+charlie@company.com,2026-08-24T03:36:45.038648+00:00,174.89.154.104,US,Los Angeles,34.097937213135694,-118.73959406030271,dev-76f334d3,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+frank@company.com,2026-08-24T22:49:15.038232+00:00,227.234.73.68,US,Los Angeles,33.689630319525506,-117.99501101790838,dev-76f334d3,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+diana@company.com,2026-08-25T02:07:22.038593+00:00,85.142.35.248,US,New York,40.98332663744036,-74.15885387091726,dev-8cc55c04,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+eve@company.com,2026-08-25T03:12:42.038243+00:00,93.112.70.131,DE,Berlin,52.51351583488963,13.655782157533737,dev-a5b95619,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+bob@company.com,2026-08-25T08:18:32.038436+00:00,31.126.20.159,US,New York,40.291983405494875,-73.85262683552749,dev-8cc55c04,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+bob@company.com,2026-08-26T05:43:42.038254+00:00,153.32.197.98,US,Los Angeles,34.145888428361125,-118.27195011221532,dev-8cc55c04,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+henry@company.com,2026-08-26T13:29:57.039193+00:00,79.30.50.243,GB,London,51.772737104354704,-0.004484969593396837,dev-a5b95619,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+diana@company.com,2026-08-26T16:05:14.038358+00:00,91.216.210.120,US,New York,41.0738367483696,-74.45582881276783,dev-8b428cb7,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+grace@company.com,2026-08-26T18:58:03.038979+00:00,246.185.235.182,DE,Berlin,52.17299114909386,13.07613696108606,dev-8b428cb7,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+eve@company.com,2026-08-26T21:21:26.039029+00:00,212.137.165.219,DE,Berlin,52.2654951690937,13.834621878614001,dev-76f334d3,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+henry@company.com,2026-08-27T02:21:54.038748+00:00,20.146.120.70,US,Los Angeles,33.88584753662131,-117.84697316720968,dev-aeed60cb,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+bob@company.com,2026-08-27T18:08:15.038192+00:00,163.186.83.95,DE,Berlin,52.375270700227524,13.570175174377693,dev-aeed60cb,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+frank@company.com,2026-08-27T23:49:03.038468+00:00,160.51.37.138,US,New York,40.423154312267044,-74.24479958524961,dev-8b428cb7,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+grace@company.com,2026-08-28T04:52:37.038379+00:00,64.38.226.207,US,Los Angeles,34.411349104761825,-118.18967468755015,dev-aeed60cb,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+eve@company.com,2026-08-28T07:18:03.039053+00:00,146.194.172.8,DE,Berlin,52.51430650361593,13.22501416788876,dev-8cc55c04,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+grace@company.com,2026-08-28T18:54:43.038736+00:00,116.132.126.216,DE,Berlin,52.65766143677616,13.665813684297166,dev-8cc55c04,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+bob@company.com,2026-08-29T07:25:30.038346+00:00,55.67.242.63,US,Los Angeles,34.33461942429075,-117.93250300223335,dev-aeed60cb,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+bob@company.com,2026-08-29T11:06:39.039092+00:00,143.123.243.166,US,Los Angeles,34.26184240647272,-118.29182545041343,dev-76f334d3,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+grace@company.com,2026-08-29T18:58:33.039440+00:00,247.18.64.129,DE,Berlin,52.98535359017686,13.231994703931363,dev-8cc55c04,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+charlie@company.com,2026-08-29T19:08:22.039329+00:00,74.205.18.117,GB,London,51.098059792775786,-0.3776011490577923,dev-76f334d3,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+bob@company.com,2026-08-31T06:39:13.039451+00:00,234.233.7.185,DE,Berlin,52.16415541596695,13.77093297134922,dev-8b428cb7,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+henry@company.com,2026-08-31T12:41:23.038723+00:00,253.162.226.157,US,Los Angeles,34.36500650733168,-117.84797970365898,dev-76f334d3,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+bob@company.com,2026-08-31T14:34:10.038966+00:00,110.189.35.130,US,New York,40.85754325405681,-74.49734784983416,dev-aeed60cb,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+diana@company.com,2026-08-31T18:12:11.039136+00:00,244.94.98.56,GB,London,51.74860465350895,-0.35350037303131077,dev-8b428cb7,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+eve@company.com,2026-08-31T19:29:31.038266+00:00,193.136.174.29,US,New York,40.503500128647424,-74.35184224565533,dev-8b428cb7,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+grace@company.com,2026-08-31T21:13:06.038626+00:00,176.100.186.111,US,New York,40.27997381112631,-73.84576231508873,dev-a5b95619,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+henry@company.com,2026-08-31T21:22:05.039417+00:00,124.176.170.142,US,Los Angeles,34.31287267761998,-118.3627899457861,dev-76f334d3,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+charlie@company.com,2026-08-31T22:17:54.038288+00:00,245.0.165.126,GB,London,51.02947674238583,0.2990986162646171,dev-8cc55c04,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+grace@company.com,2026-09-01T00:12:20.039475+00:00,10.35.120.162,GB,London,51.694399574405914,-0.34262099595795636,dev-76f334d3,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+diana@company.com,2026-09-01T04:20:15.039269+00:00,58.76.136.212,DE,Berlin,52.16223628544368,12.959638039513848,dev-8b428cb7,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+charlie@company.com,2026-09-01T10:26:38.038311+00:00,43.135.216.247,US,Los Angeles,33.761798205442076,-118.20070391122054,dev-76f334d3,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+eve@company.com,2026-09-01T14:35:10.039160+00:00,75.64.251.27,US,New York,41.082719734998534,-73.93593578037367,dev-8b428cb7,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+bob@company.com,2026-09-01T20:04:42.039185+00:00,196.213.115.199,US,Los Angeles,34.07257253513021,-118.28948553511124,dev-8b428cb7,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+frank@company.com,2026-09-02T12:04:08.039428+00:00,99.119.210.12,US,Los Angeles,33.8681763272338,-118.26702374975957,dev-8cc55c04,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+bob@company.com,2026-09-02T16:34:53.038695+00:00,50.196.253.103,DE,Berlin,52.263984439578444,13.556058011111784,dev-76f334d3,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+eve@company.com,2026-09-02T21:36:27.038659+00:00,156.164.238.114,US,Los Angeles,33.9921597993048,-118.5262985990109,dev-76f334d3,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+frank@company.com,2026-09-03T02:29:33.038422+00:00,123.80.29.246,US,New York,40.71782849699342,-73.65865745465588,dev-8b428cb7,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+grace@company.com,2026-09-03T08:25:14.038127+00:00,72.3.81.179,US,Los Angeles,33.9726143981535,-118.46212865832835,dev-76f334d3,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+grace@company.com,2026-09-03T11:43:13.038951+00:00,177.124.52.179,US,Los Angeles,34.32248088495122,-117.8897067609112,dev-8b428cb7,true,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0,benign
+bob@company.com,2026-09-04T07:52:35.039643+00:00,72.14.200.1,US,New York,40.71,-74.01,bob-laptop-001,true,,Mozilla/5.0 Safari/537.36,impossible_travel
+bob@company.com,2026-09-04T08:22:35.039643+00:00,91.108.56.100,RU,Moscow,55.75,37.62,unknown-device-russia,true,,Mozilla/5.0 (X11; Linux x86_64) Firefox/120,impossible_travel
+alice@company.com,2026-09-04T12:52:35.039600+00:00,103.45.67.89,CN,Beijing,39.91,116.39,spray-device-xyz,false,Invalid password,curl/7.85.0,password_spray
+bob@company.com,2026-09-04T12:54:35.039600+00:00,103.45.67.89,CN,Beijing,39.91,116.39,spray-device-xyz,false,Invalid password,curl/7.85.0,password_spray
+charlie@company.com,2026-09-04T12:56:35.039600+00:00,103.45.67.89,CN,Beijing,39.91,116.39,spray-device-xyz,false,Invalid password,curl/7.85.0,password_spray
+diana@company.com,2026-09-04T12:58:35.039600+00:00,103.45.67.89,CN,Beijing,39.91,116.39,spray-device-xyz,false,Invalid password,curl/7.85.0,password_spray
+eve@company.com,2026-09-04T13:00:35.039600+00:00,103.45.67.89,CN,Beijing,39.91,116.39,spray-device-xyz,false,Invalid password,curl/7.85.0,password_spray
+frank@company.com,2026-09-04T13:02:35.039600+00:00,103.45.67.89,CN,Beijing,39.91,116.39,spray-device-xyz,false,Invalid password,curl/7.85.0,password_spray
+grace@company.com,2026-09-04T13:04:35.039600+00:00,103.45.67.89,CN,Beijing,39.91,116.39,spray-device-xyz,false,Invalid password,curl/7.85.0,password_spray
+henry@company.com,2026-09-04T13:06:35.039600+00:00,103.45.67.89,CN,Beijing,39.91,116.39,spray-device-xyz,false,Invalid password,curl/7.85.0,password_spray
+alice@company.com,2026-09-04T15:52:35.039500+00:00,185.220.101.45,RU,Moscow,55.75,37.62,unknown-device-abc,false,Invalid password,python-requests/2.28,brute_force
+alice@company.com,2026-09-04T15:52:50.039500+00:00,185.220.101.45,RU,Moscow,55.75,37.62,unknown-device-abc,false,Invalid password,python-requests/2.28,brute_force
+alice@company.com,2026-09-04T15:53:05.039500+00:00,185.220.101.45,RU,Moscow,55.75,37.62,unknown-device-abc,false,Invalid password,python-requests/2.28,brute_force
+alice@company.com,2026-09-04T15:53:20.039500+00:00,185.220.101.45,RU,Moscow,55.75,37.62,unknown-device-abc,false,Invalid password,python-requests/2.28,brute_force
+alice@company.com,2026-09-04T15:53:35.039500+00:00,185.220.101.45,RU,Moscow,55.75,37.62,unknown-device-abc,false,Invalid password,python-requests/2.28,brute_force
+alice@company.com,2026-09-04T15:53:50.039500+00:00,185.220.101.45,RU,Moscow,55.75,37.62,unknown-device-abc,false,Invalid password,python-requests/2.28,brute_force
+alice@company.com,2026-09-04T15:54:05.039500+00:00,185.220.101.45,RU,Moscow,55.75,37.62,unknown-device-abc,false,Invalid password,python-requests/2.28,brute_force
+alice@company.com,2026-09-04T15:54:20.039500+00:00,185.220.101.45,RU,Moscow,55.75,37.62,unknown-device-abc,false,Invalid password,python-requests/2.28,brute_force
+alice@company.com,2026-09-04T15:54:35.039500+00:00,185.220.101.45,RU,Moscow,55.75,37.62,unknown-device-abc,false,Invalid password,python-requests/2.28,brute_force
+alice@company.com,2026-09-04T15:54:50.039500+00:00,185.220.101.45,RU,Moscow,55.75,37.62,unknown-device-abc,false,Invalid password,python-requests/2.28,brute_force
+alice@company.com,2026-09-04T15:55:05.039500+00:00,185.220.101.45,RU,Moscow,55.75,37.62,unknown-device-abc,false,Invalid password,python-requests/2.28,brute_force
+alice@company.com,2026-09-04T15:55:20.039500+00:00,185.220.101.45,RU,Moscow,55.75,37.62,unknown-device-abc,false,Invalid password,python-requests/2.28,brute_force
+alice@company.com,2026-09-04T15:55:35.039500+00:00,185.220.101.45,RU,Moscow,55.75,37.62,unknown-device-abc,false,Invalid password,python-requests/2.28,brute_force
+alice@company.com,2026-09-04T15:55:50.039500+00:00,185.220.101.45,RU,Moscow,55.75,37.62,unknown-device-abc,false,Invalid password,python-requests/2.28,brute_force
+alice@company.com,2026-09-04T15:56:05.039500+00:00,185.220.101.45,RU,Moscow,55.75,37.62,unknown-device-abc,false,Invalid password,python-requests/2.28,brute_force
+alice@company.com,2026-09-04T15:56:20.039500+00:00,185.220.101.45,RU,Moscow,55.75,37.62,unknown-device-abc,false,Invalid password,python-requests/2.28,brute_force
+alice@company.com,2026-09-04T15:56:35.039500+00:00,185.220.101.45,RU,Moscow,55.75,37.62,unknown-device-abc,false,Invalid password,python-requests/2.28,brute_force
+alice@company.com,2026-09-04T15:56:50.039500+00:00,185.220.101.45,RU,Moscow,55.75,37.62,unknown-device-abc,false,Invalid password,python-requests/2.28,brute_force
+alice@company.com,2026-09-04T15:57:05.039500+00:00,185.220.101.45,RU,Moscow,55.75,37.62,unknown-device-abc,false,Invalid password,python-requests/2.28,brute_force
+alice@company.com,2026-09-04T15:57:20.039500+00:00,185.220.101.45,RU,Moscow,55.75,37.62,unknown-device-abc,false,Invalid password,python-requests/2.28,brute_force

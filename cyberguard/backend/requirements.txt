@@ -1,0 +1,67 @@
+# CyberGuard Backend Requirements
+# Dependency versions verified compatible with Python 3.14 as of this update.
+# Uses minimum-version constraints (>=) so pip resolves to the latest compatible release.
+
+# Core API
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+python-multipart>=0.0.12
+websockets>=13.0
+
+# Database
+sqlalchemy>=2.0.36
+aiosqlite>=0.20.0
+
+# AI / LLM
+openai>=1.51.0
+
+# ML / NLP
+scikit-learn>=1.5.0
+pandas>=2.2.3
+numpy>=2.1.0
+joblib>=1.4.2
+scipy>=1.14.0
+
+# NLP text processing
+nltk>=3.9.0
+
+# Computer Vision / Deepfake
+opencv-python-headless>=4.10.0.84
+Pillow>=11.0.0
+
+# Audio analysis
+# WARNING: librosa as of 0.10.x targets numpy <2.0 and its deps (numba) do NOT yet publish
+# wheels for Python 3.14 on Windows. librosa IS imported lazily in deepfake_engine.py
+# and the engine gracefully falls back when librosa is unavailable
+# (returns a 60-score result with "librosa not available — audio analysis skipped").
+# Therefore librosa is intentionally omitted here.
+# KNOWN LIMITATION: Audio deepfake analysis is disabled until a librosa release ships
+# Python 3.14 Windows wheels. Alternative: run audio analysis in a separate Python 3.12
+# venv and expose it as a microservice.
+soundfile>=0.12.1
+
+# QR Code
+pyzbar>=0.1.1
+
+# URL / domain analysis
+tldextract>=5.1.3
+python-Levenshtein>=0.25.1
+
+# Utilities
+python-dotenv>=1.0.1
+pydantic>=2.9.0
+pydantic-settings>=2.5.0
+httpx>=0.27.0
+aiofiles>=24.1.0
+python-jose>=3.3.0
+passlib>=1.7.4
+email-validator>=2.2.0
+
+# PyTorch CPU (lightweight for demo)
+# NOTE: PyTorch does not yet publish Python 3.14 wheels on PyPI.
+# The +cpu variant must be fetched from the PyTorch index below.
+# If torch wheels are unavailable for Python 3.14, comment out torch/torchvision and
+# the extra-index-url line — the deepfake engine only uses torch as an optional path.
+torch>=2.4.0
+torchvision>=0.19.0
+--extra-index-url https://download.pytorch.org/whl/cpu
